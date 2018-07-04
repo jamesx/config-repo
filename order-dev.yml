@@ -11,7 +11,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 env:
-  dev-new123
+  dev-success
 server:
   port: 8082
 #PRODUCT:
